@@ -7,7 +7,7 @@ the system with base B.
     15/7 = 2...1
     2/7 = 0...2
     109(decimal) = 214(septimal)
-
+  
 given a random decimal number α.
 α = a*10^0 + a1*10^1 +...+ an-1*10^n-1 + an*10^n
 represent in aa1a2a3...an where a∈[0, 10);
